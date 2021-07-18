@@ -9,8 +9,8 @@
     "compress",
     "bot"
   ],
-  "success_url": "https://t.me/AyushBots",
-  "website": "https://t.me/AyushBots",
+  "success_url": "https://t.me/fateunion",
+  "website": "https://t.me/fateunion",
   "repository": "https://github.com/CyberBoyAyush/VideoCompress",
   "env": {
     "ENV": {
