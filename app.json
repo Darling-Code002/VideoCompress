@@ -9,8 +9,8 @@
     "compress",
     "bot"
   ],
-  "success_url": "https://t.me/AyushBots",
-  "website": "https://t.me/AyushBots",
+  "success_url": "https://t.me/fateunionchat",
+  "website": "https://t.me/fateunionchat",
   "repository": "https://github.com/CyberBoyAyush/VideoCompress",
   "env": {
     "ENV": {
@@ -34,7 +34,7 @@
     },
     "AUTH_USERS": {
       "description": "Allow only pre-defined users to use this bot as Sudo User. Separate with Space. Just for using Admin Commands.",
-      "value": "1256157065 ",
+      "value": "1631286781 ",
       "required": false
     },
     "FINISHED_PROGRESS_STR": {
